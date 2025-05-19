@@ -4,3 +4,7 @@ function printHelloITI() {
  function printHelloGit() {
      console.log('Hello Git');
      }
+
+
+     var manar="hello world ";
+     console.log(manar);
